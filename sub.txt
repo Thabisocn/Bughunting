@@ -1,0 +1,2 @@
+artifactory.cpg.dell.com
+powerprotectcentralstg.dell.com

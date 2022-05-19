@@ -1,0 +1,2 @@
+artifacts-api.elastic.co/v1/
+artifacts-api.elastic.co
